@@ -1,5 +1,20 @@
 
+/* hide breadcrumb */
 .view-header-breadcrumb,
 .view-header-breadcrumb-separator {
   display: none;
+}
+
+/* hide link underline */
+.theme-light, .theme-dark {
+  --link-decoration: none;
+  --link-decoration-hover: none;
+  --link-external-decoration: none;
+  --link-external-decoration-hover: none;
+}
+
+/* hide external link icon */
+.external-link {
+  background-image: none;
+  padding-right: 0px;
 }
