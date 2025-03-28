@@ -1,3 +1,7 @@
 [
-  "custom-font-loader"
+  "custom-font-loader",
+  "custom-sort",
+  "obsidian-alias-from-heading",
+  "obsidian-hider",
+  "unitade"
 ]
