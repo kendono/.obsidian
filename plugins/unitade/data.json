@@ -1,6 +1,6 @@
 {
   "markdown_overcharge": false,
-  "extensions": "txt",
+  "extensions": "",
   "is_case_insensitive": false,
   "is_onload": false,
   "is_onload_unsafe": false,
@@ -16,8 +16,10 @@
     "stable": true
   },
   "barefiling": true,
-  "stable": true,
-  "errors": {},
+  "stable": false,
+  "errors": {
+    "": "Error from UNITADE plugin: Error: Attempting to register an existing view type \"\""
+  },
   "debug_mode": false,
   "silence_errors": false,
   "manifest_version": "3.2.2",
