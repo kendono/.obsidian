@@ -25,7 +25,19 @@
   "recentFilesStore": [
     {
       "filepath": "README.md",
-      "timestamp": 1743186323055
+      "timestamp": 1743191634618
+    },
+    {
+      "filepath": "rs-code/README.md",
+      "timestamp": 1743191633371
+    },
+    {
+      "filepath": "rs_std/README.md",
+      "timestamp": 1743191631886
+    },
+    {
+      "filepath": "docs/README.md",
+      "timestamp": 1743190854284
     }
   ],
   "bookmarkedFileStore": [],

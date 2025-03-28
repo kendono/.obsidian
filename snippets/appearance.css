@@ -18,3 +18,7 @@
   background-image: none;
   padding-right: 0px;
 }
+
+.cm-content > .HyperMD-header {
+    --p-spacing: 0;
+}
