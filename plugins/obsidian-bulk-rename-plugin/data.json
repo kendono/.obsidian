@@ -1,0 +1,13 @@
+{
+  "folderName": "",
+  "fileNames": [],
+  "existingSymbol": "-lang",
+  "replacePattern": "-code",
+  "regExpState": {
+    "regExp": "",
+    "flags": [],
+    "withRegExpForReplaceSymbols": false
+  },
+  "tags": [],
+  "viewType": "regexp"
+}
