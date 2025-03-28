@@ -87,7 +87,7 @@
     "hideInSettings": false
   },
   "hideCollapsingIcon": false,
-  "tabManagerEnabled": true,
+  "tabManagerEnabled": false,
   "ignoreAttachmentFolder": true,
   "deleteFilesAction": "trash"
 }
