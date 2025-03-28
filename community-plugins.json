@@ -11,5 +11,7 @@
   "global-search-and-replace",
   "table-editor-obsidian",
   "home-tab",
-  "obsidian-bulk-rename-plugin"
+  "obsidian-bulk-rename-plugin",
+  "show-hidden-files",
+  "hide-folders"
 ]
