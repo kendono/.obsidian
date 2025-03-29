@@ -22,20 +22,6 @@
   "showShortcuts": true,
   "markdownOnly": true,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "_/Untitled.md",
-      "timestamp": 1743220178628
-    },
-    {
-      "filepath": "rs/Untitled.md",
-      "timestamp": 1743220032116
-    },
-    {
-      "filepath": "cc/Untitled.md",
-      "timestamp": 1743220027090
-    }
-  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
