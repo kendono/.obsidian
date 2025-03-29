@@ -3,7 +3,10 @@
   "language": "",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": false,
-  "showConfigurationFolder": true,
+  "showConfigurationFolder": false,
   "showHiddenFiles": true,
-  "showingRules": []
+  "showingRules": [
+    ".assets",
+    ".attachments"
+  ]
 }
