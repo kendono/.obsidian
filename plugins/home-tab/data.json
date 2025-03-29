@@ -20,7 +20,7 @@
   "showPath": true,
   "selectionHighlight": "default",
   "showShortcuts": true,
-  "markdownOnly": false,
+  "markdownOnly": true,
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
@@ -34,17 +34,13 @@
     {
       "filepath": "cc/Untitled.md",
       "timestamp": 1743220027090
-    },
-    {
-      "filepath": "c/Untitled.md",
-      "timestamp": 1743220021651
     }
   ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
-  "newTabOnStart": false,
-  "closePreviousSessionTabs": false,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
   "omnisearch": false,
   "showOmnisearchExcerpt": true
 }
