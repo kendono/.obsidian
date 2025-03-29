@@ -22,7 +22,28 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "_/_/han/README.md",
+      "timestamp": 1743194016742
+    },
+    {
+      "filepath": "_/ko/ko-han/README.md",
+      "timestamp": 1743193984614
+    },
+    {
+      "filepath": "_/ja/ja-han/README.md",
+      "timestamp": 1743193982491
+    },
+    {
+      "filepath": "_/ja/ja-han/1_kyoiku/kyoiku-1/README.md",
+      "timestamp": 1743193765169
+    },
+    {
+      "filepath": "_/ja/ja-han/4_jis/jis-4/README.md",
+      "timestamp": 1743193594537
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

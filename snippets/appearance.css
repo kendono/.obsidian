@@ -22,3 +22,12 @@
 .cm-content > .HyperMD-header {
     --p-spacing: 0;
 }
+
+table td, table .cme-line {
+  height: unset !important;
+  --table-cell-vertical-alignment: middle;
+}
+
+table th {
+  text-align: center !important;
+}
