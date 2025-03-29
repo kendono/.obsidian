@@ -13,7 +13,7 @@
   "fontColorType": "default",
   "fontWeight": 600,
   "maxResults": 5,
-  "showbookmarkedFiles": true,
+  "showbookmarkedFiles": false,
   "showRecentFiles": false,
   "maxRecentFiles": 5,
   "storeRecentFile": true,
