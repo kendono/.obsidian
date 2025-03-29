@@ -1,0 +1,28 @@
+
+.cell1size1h td:nth-child(1) { min-width: 0 !important; font-size: 1.5rem; }
+.cell2size1h td:nth-child(2) { min-width: 0 !important; font-size: 1.5rem; }
+.cell3size1h td:nth-child(3) { min-width: 0 !important; font-size: 1.5rem; }
+.cell4size1h td:nth-child(4) { min-width: 0 !important; font-size: 1.5rem; }
+.cell5size1h td:nth-child(5) { min-width: 0 !important; font-size: 1.5rem; }
+.cell6size1h td:nth-child(6) { min-width: 0 !important; font-size: 1.5rem; }
+
+.cell1size2 td:nth-child(1) { min-width: 0 !important; font-size: 2rem; }
+.cell2size2 td:nth-child(2) { min-width: 0 !important; font-size: 2rem; }
+.cell3size2 td:nth-child(3) { min-width: 0 !important; font-size: 2rem; }
+.cell4size2 td:nth-child(4) { min-width: 0 !important; font-size: 2rem; }
+.cell5size2 td:nth-child(5) { min-width: 0 !important; font-size: 2rem; }
+.cell6size2 td:nth-child(6) { min-width: 0 !important; font-size: 2rem; }
+
+.cell1size2h td:nth-child(1) { min-width: 0 !important; font-size: 2.5rem; }
+.cell2size2h td:nth-child(2) { min-width: 0 !important; font-size: 2.5rem; }
+.cell3size2h td:nth-child(3) { min-width: 0 !important; font-size: 2.5rem; }
+.cell4size2h td:nth-child(4) { min-width: 0 !important; font-size: 2.5rem; }
+.cell5size2h td:nth-child(5) { min-width: 0 !important; font-size: 2.5rem; }
+.cell6size2h td:nth-child(6) { min-width: 0 !important; font-size: 2.5rem; }
+
+.cell1size3 td:nth-child(1) { min-width: 0 !important; font-size: 3rem; }
+.cell2size3 td:nth-child(2) { min-width: 0 !important; font-size: 3rem; }
+.cell3size3 td:nth-child(3) { min-width: 0 !important; font-size: 3rem; }
+.cell4size3 td:nth-child(4) { min-width: 0 !important; font-size: 3rem; }
+.cell5size3 td:nth-child(5) { min-width: 0 !important; font-size: 3rem; }
+.cell6size3 td:nth-child(6) { min-width: 0 !important; font-size: 3rem; }
