@@ -17,11 +17,11 @@
       "commands": [
         {
           "id": "custom-sort:enable-custom-sorting",
-          "period": "Both"
+          "period": "Manual only"
         },
         {
           "id": "plugin-reloader:folder-notes",
-          "period": "Both"
+          "period": "Manual only"
         }
       ],
       "alwaysApply": false,
