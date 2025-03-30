@@ -14,5 +14,6 @@
   "show-hidden-files",
   "hide-folders",
   "plugin-reloader",
-  "homepage"
+  "homepage",
+  "remember-cursor-position"
 ]
