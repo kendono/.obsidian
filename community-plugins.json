@@ -13,5 +13,6 @@
   "obsidian-bulk-rename-plugin",
   "show-hidden-files",
   "hide-folders",
-  "plugin-reloader"
+  "plugin-reloader",
+  "homepage"
 ]
