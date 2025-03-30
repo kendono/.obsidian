@@ -15,5 +15,6 @@
   "hide-folders",
   "plugin-reloader",
   "homepage",
-  "remember-cursor-position"
+  "remember-cursor-position",
+  "home-tab"
 ]

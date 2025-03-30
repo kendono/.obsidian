@@ -35,3 +35,8 @@ table th, table td, table .cm-line {
   --table-cell-vertical-alignment: middle;
   white-space: nowrap !important;
 }
+
+/* embed title */
+.embed-title {
+  display: none;
+}
