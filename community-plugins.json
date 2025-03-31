@@ -16,5 +16,7 @@
   "plugin-reloader",
   "homepage",
   "remember-cursor-position",
-  "home-tab"
+  "home-tab",
+  "obsidian-paste-image-rename",
+  "obsidian-image-toolkit"
 ]
