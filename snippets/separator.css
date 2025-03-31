@@ -13,7 +13,7 @@
 
 /* Separator below */
 .nav-files-container [class*=nav-]:has(:is(
-    [data-path=".attachments"]
+    [data-path=".assets"]
 ))::after {
     content:'';
     display:block;
@@ -25,6 +25,7 @@
 
 /* Separator above */
 .nav-files-container [class*=nav-]:has(:is(
+    [data-path="index.md"],
     [data-path=".assets"]
 ))::before {
     content:'';
